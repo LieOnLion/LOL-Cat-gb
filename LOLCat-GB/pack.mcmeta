@@ -1,0 +1,13 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "LOLCat with a few changes for the Brits"
+    },
+	"language":{
+		"lol_gb":{
+			"name":"LOLCAT",
+			"region":"Kingdom of Cats from GB",
+			"bidirectional":false
+      }
+   }
+}
